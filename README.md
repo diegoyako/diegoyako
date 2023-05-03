@@ -1,4 +1,4 @@
-## 👨‍💻👋 Hi, i'm Diego Yako
+## 👨‍💻👋 Hi, I'm Diego Yako
 
 ![me](https://user-images.githubusercontent.com/62260320/236033198-46d95f1a-578e-4aa5-aeb8-12761fe385ef.png)
 
