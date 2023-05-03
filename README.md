@@ -7,12 +7,14 @@
 ![me](https://user-images.githubusercontent.com/62260320/236033198-46d95f1a-578e-4aa5-aeb8-12761fe385ef.png)
 
 
-```const diegoyako = {
+```
+  const diegoyako = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Node, Express, Vite, Next, MongoDB, ESLint],
 }
 ```
+  
 ### Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
