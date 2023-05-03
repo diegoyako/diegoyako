@@ -2,7 +2,7 @@
 
 <!--🐱CAT-->
 <p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 
 ![me](https://user-images.githubusercontent.com/62260320/236033198-46d95f1a-578e-4aa5-aeb8-12761fe385ef.png)
 
